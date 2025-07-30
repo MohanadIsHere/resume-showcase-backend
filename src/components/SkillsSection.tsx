@@ -34,16 +34,6 @@ const skillCategories: SkillCategory[] = [
       { name: "MongoDB", level: 85 },
       { name: "Redis", level: 82 }
     ]
-  },
-  {
-    title: "Cloud & DevOps",
-    icon: <Cloud className="w-6 h-6" />,
-    skills: [
-      { name: "AWS", level: 85 },
-      { name: "Docker", level: 90 },
-      { name: "Kubernetes", level: 75 },
-      { name: "CI/CD", level: 80 }
-    ]
   }
 ];
 
